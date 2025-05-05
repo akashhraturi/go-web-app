@@ -1,4 +1,4 @@
 image:
-  tag: "v1"
+  tag: "14845594297"
   repositoy: akashhraturi/go-web-app
   pullPolicy: IfNotPresent
